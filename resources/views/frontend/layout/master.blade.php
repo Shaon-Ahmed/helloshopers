@@ -17,7 +17,7 @@
 
 <main role="main">
 
-    @yield ('home')
+    @yield ('main')
 
 </main>
 

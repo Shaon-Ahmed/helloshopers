@@ -9,11 +9,10 @@
 
 
 
-   <link href="{{ mix('css/app.css') }}" rel="stylesheet">
+    <link href="{{ mix('css/app.css') }}" rel="stylesheet">
     <link href="{{ mix('css/all.css') }}" rel="stylesheet">
 </head>
 <body>
-
 <header>
     <div class="collapse bg-dark" id="navbarHeader">
         <div class="container">
@@ -215,6 +214,7 @@
         <p>New to Bootstrap? <a href="../../">Visit the homepage</a> or read our <a href="../../getting-started/">getting started guide</a>.</p>
     </div>
 </footer>
+
 
 
 <script src="{{ mix('js/all.js') }}"></script>
